@@ -3,9 +3,9 @@
 
 - Owner Filmon
 
-- Admin [Claire Crawford](https://github.com/Claire-Crawford)
+- Project Manager [Claire Crawford](https://github.com/Claire-Crawford)
 
-- Tech: [David Lynn Skinner](https://github.com/comaldave)
+- System Integrator: [David Lynn Skinner](https://github.com/comaldave)
 
 ### Address
 <address class="w3-padding-large">

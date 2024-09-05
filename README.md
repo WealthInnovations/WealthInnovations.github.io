@@ -1,13 +1,13 @@
 # WealthInnovations.github.io
 ## Organization Website for Wealth Innovations Inc.
 
-Owner Filmon
+- Owner Filmon
 
-Admin [Claire Crawford](https://github.com/Claire-Crawford)
+- Admin [Claire Crawford](https://github.com/Claire-Crawford)
 
-Tech: [David Lynn Skinner](https://github.com/comaldave)
+- Tech: [David Lynn Skinner](https://github.com/comaldave)
 
-
+### Address
 <address class="w3-padding-large">
   <dl>
   <dt>Email:</dt>

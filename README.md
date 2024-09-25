@@ -3,7 +3,7 @@
 
 - Owner Filmon
 
-- Project Manager [Claire Crawford](https://github.com/Claire-Crawford)
+- Project Manager [Claire Crawford](https://github.com/ClaireElyseCrawford)
 
 - System Integrator: [David Lynn Skinner](https://github.com/comaldave)
 
